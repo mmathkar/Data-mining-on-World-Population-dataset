@@ -1,0 +1,224 @@
+Rank,Entity,Continent,Overall life expectancy at birth,Male life expectancy at birth,Female life expectancy at birth
+1, Monaco,Europe,89.5,85.6,93.5
+2, Japan,Asia,85,81.7,88.5
+3, Singapore,Asia,85,82.3,87.8
+4, Macau ( China),Asia,84.5,81.6,87.6
+5, San Marino,Europe,83.3,80.7,86.1
+6, Iceland,Europe,83,80.9,85.3
+7, Hong Kong ( China),Asia,82.9,80.3,85.8
+8, Andorra,Europe,82.8,80.6,85.1
+9,  Switzerland,Europe,82.6,80.3,85
+10, Guernsey,Europe,82.5,79.9,85.4
+11, Israel,Asia,82.4,80.6,84.4
+12, South Korea,Asia,82.4,79.3,85.8
+13, Luxembourg,Europe,82.3,79.8,84.9
+14, Australia,Australia,82.2,79.8,84.8
+15, Italy,Europe,82.2,79.6,85
+16, Sweden,Europe,82.1,80.2,84.1
+17, Canada,North America,81.9,79.2,84.6
+18, Jersey,Europe,81.9,79.4,84.5
+19, Liechtenstein,Europe,81.9,79.7,84.6
+20, France (metropolitan),Europe,81.8,78.7,85.1
+21, Norway,Europe,81.8,79.8,83.9
+22, Spain,Europe,81.7,78.7,84.9
+23, Austria,Europe,81.5,78.9,84.3
+24, Anguilla,Europe,81.4,78.8,84.1
+25, Bermuda,North America,81.3,78.1,84.5
+26, Netherlands,Europe,81.3,79.2,83.6
+27, Cayman Islands,North America,81.2,78.5,84
+28, Isle of Man,Europe,81.2,79.5,83
+29, New Zealand,Australia,81.2,79.1,83.3
+30, Belgium,Europe,81,78.4,83.7
+31, Finland,Europe,80.9,77.9,84
+32, Ireland,Europe,80.8,78.5,83.2
+33, Germany,Europe,80.7,78.4,83.1
+34, United Kingdom,Europe,80.7,78.5,83
+35, Greece,Europe,80.5,77.9,83.3
+36, Saint Pierre and Miquelon,North America,80.5,78.2,83
+37, Faroe Islands,Europe,80.4,77.8,83.1
+38, Malta,Europe,80.4,78,82.8
+39, European Union,Europe,80.2,77.4,83.2
+40, Taiwan,Asia,80.1,77,83.5
+41, U.S. Virgin Islands,North America,80,77,83.2
+42, Turks and Caicos Islands,North America,79.8,77.1,82.7
+43, United States,North America,79.8,77.5,82.1
+44, Wallis and Futuna,Australia,79.7,76.7,82.8
+45," Saint Helena, Ascension and Tristan da Cunha",Africa,79.5,76.6,82.6
+46, Denmark,Europe,79.4,77,82
+47, Gibraltar,Europe,79.4,76.6,82.5
+48, Puerto Rico,North America,79.4,75.8,83.1
+49, Portugal,Europe,79.3,76.1,82.8
+50, Bahrain,Asia,78.9,76.7,81.1
+51, Chile,South America,78.8,75.7,81.9
+52, Cuba,North America,78.7,76.4,81.1
+53, Cyprus,Europe,78.7,75.8,81.6
+54, Qatar,Asia,78.7,76.7,80.8
+55, British Virgin Islands,North America,78.6,77.2,80.1
+56, Costa Rica,North America,78.6,75.9,81.4
+57, Czech Republic,Europe,78.6,75.7,81.8
+58, Panama,North America,78.6,75.8,81.6
+59, Albania,Europe,78.3,75.7,81.2
+60, Slovenia,Europe,78.2,74.6,82
+61, Dominican Republic,North America,78.1,75.9,80.5
+62, Sint Maarten ( Netherlands),Europe,78.1,75.8,80.6
+63, Kuwait,Asia,78,76.6,79.4
+64, Northern Mariana Islands ( US),North America,78,75.3,80.8
+65, Falkland Islands,South America,77.9,75.6,79.6
+66, Saint Lucia,North America,77.8,75,80.7
+67, New Caledonia ( France),Europe,77.7,73.7,81.9
+68, Lebanon,Asia,77.6,76.3,78.9
+69, Poland,Europe,77.6,73.7,81.7
+70, United Arab Emirates,Asia,77.5,74.8,80.2
+71, Brunei,Asia,77.2,74.8,79.6
+72, French Polynesia ( France),Europe,77.2,74.9,79.6
+73, Paraguay,South America,77.2,74.5,80
+74, Uruguay,South America,77.2,74.1,80.5
+75, Argentina,South America,77.1,74,80.4
+76, Slovakia,Europe,77.1,73.5,80.9
+77, Dominica,North America,77,74,80.1
+78, Morocco,Africa,76.9,73.8,80.1
+79, Algeria,Africa,76.8,75.5,78.2
+80, Aruba ( Netherlands),Europe,76.8,73.7,79.9
+81, Ecuador,South America,76.8,73.8,79.9
+82, Sri Lanka,Asia,76.8,73.3,80.4
+83, Bosnia and Herzegovina,Europe,76.7,73.7,80
+84, Estonia,Europe,76.7,71.9,81.7
+85, Antigua and Barbuda,North America,76.5,74.4,78.8
+86, Libya,Africa,76.5,74.7,78.3
+87, Georgia,Asia,76.2,72.1,80.6
+88, Republic of Macedonia,Europe,76.2,73.6,79
+89, Tonga,Australia,76.2,74.7,77.8
+90, Tunisia,Africa,76.1,74,78.4
+91, Croatia,Europe,75.9,72.7,79.2
+92, Hungary,Europe,75.9,72.2,79.8
+93, Mexico,North America,75.9,73.1,78.8
+94, Cook Islands,Australia,75.8,73,78.8
+95, Venezuela,South America,75.8,72.7,78.9
+96, Colombia,South America,75.7,72.6,79
+97, Saint Kitts and Nevis,North America,75.7,73.3,78.2
+98, Maldives,Asia,75.6,73.3,78
+99, Mauritius,Africa,75.6,72.2,79.2
+100, Oman,Asia,75.5,73.5,77.5
+101, People's Republic of China,Asia,75.5,73.5,77.9
+102, Serbia,Europe,75.5,72.6,78.5
+103, American Samoa ( US),North America,75.4,72.4,78.5
+104, Barbados,North America,75.3,73,77.7
+105, Saint Vincent and the Grenadines,North America,75.3,73.3,77.4
+106, Saudi Arabia,Asia,75.3,73.2,77.4
+107, Solomon Islands,Australia,75.3,72.7,78.1
+108, Romania,Europe,75.1,71.7,78.8
+109, Malaysia,Asia,75,72.2,78
+110, West Bank,Asia,75,73,77.1
+111, Iraq,Asia,74.9,72.6,77.2
+112, Lithuania,Europe,74.9,69.5,80.6
+113, Syria,Asia,74.9,72.5,77.4
+114, Turkey,Asia,74.8,72.5,77.3
+115, El Salvador,North America,74.7,71.4,78.1
+116, Seychelles,Africa,74.7,70.2,79.4
+117, Thailand,Asia,74.7,71.5,78
+118, Armenia,Asia,74.6,71.4,78.3
+119, Jordan,Asia,74.6,73.2,76.1
+120, Bulgaria,Europe,74.5,71.2,78
+121, Latvia,Europe,74.5,69.9,79.3
+122, Montserrat,North America,74.4,75.8,72.9
+123, Grenada,North America,74.3,71.7,77.1
+124, Gaza Strip,Africa,73.9,72.3,75.7
+125, Brazil,South America,73.8,70.2,77.5
+126, Uzbekistan,Asia,73.8,70.7,77
+127, Peru,South America,73.7,71.7,75.9
+128, Samoa,Australia,73.7,70.8,76.8
+129, Jamaica,North America,73.6,72,75.3
+130, Vanuatu,Australia,73.4,71.8,75.1
+131, Vietnam,Asia,73.4,70.9,76.2
+132, Bangladesh,Asia,73.2,71,75.4
+133, Nicaragua,North America,73.2,71.1,75.5
+134, Marshall Islands,Australia,73.1,70.9,75.4
+135, Palau,Australia,73.1,69.9,76.5
+136, Federated States of Micronesia,Australia,72.9,70.8,75
+137, Trinidad and Tobago,North America,72.9,69.9,75.9
+138, Belarus,Europe,72.7,67.2,78.6
+139, Egypt,Africa,72.7,71.4,74.2
+140, Fiji,Australia,72.7,70,75.5
+141, Indonesia,Asia,72.7,67.3,69.8
+142, Azerbaijan,Asia,72.5,69.5,75.8
+143, Greenland ( Denmark),Europe,72.4,69.7,75.2
+144, The Bahamas,North America,72.4,70,74.8
+145, Guatemala,North America,72.3,70.3,74.4
+146, Suriname,South America,72.2,69.8,74.8
+147, Cabo Verde,Africa,72.1,69.8,74.5
+148, Ukraine,Europe,71.8,67.1,76.9
+149, Iran,Asia,71.4,69.8,73.1
+150, Honduras,North America,71.1,69.5,72.8
+151, Kazakhstan,Asia,70.8,65.6,75.7
+152, Kyrgyzstan,Asia,70.7,66.5,75.1
+153, Moldova,Europe,70.7,66.9,74.8
+154,   Nepal,Asia,70.7,70.1,71.3
+155, North Korea,Asia,70.4,66.6,74.5
+156, Russia,Europe,70.3,64.3,76.4
+157, Bhutan,Asia,70.1,69.1,71.1
+158, Turkmenistan,Asia,70.1,67.1,73.3
+159, Mongolia,Asia,69.6,65.4,74.1
+160, Bolivia,South America,69.2,66.4,72.1
+161, Philippines,Asia,69.2,65.7,72.9
+162, Belize,North America,68.7,67.2,70.4
+163, India,Asia,68.5,67.3,69.8
+164, Guyana,South America,68.4,65.4,71.5
+165, Timor-Leste,Asia,68.1,66.5,69.7
+166, Pakistan,Asia,67.7,65.8,69.8
+167, Tajikistan,Asia,67.7,64.6,71
+168, Papua New Guinea,Australia,67.2,65,69.5
+169, Nauru,Australia,67.1,63,70.5
+170, Burma,Asia,66.6,64.2,69.2
+171, Ghana,Africa,66.6,64.1,69.1
+172, Tuvalu,Australia,66.5,64.3,68.8
+173, Kiribati,Australia,66.2,63.7,68.8
+174, Madagascar,Africa,65.9,64.4,67.4
+175, Yemen,Asia,65.5,63.4,67.8
+176, Togo,Africa,65,62.3,69.7
+177, Eritrea,Africa,64.9,62.4,67.5
+178, São Tomé and Príncipe,Africa,64.9,63.6,66.3
+179, The Gambia,Africa,64.9,62.5,67.3
+180, Cambodia,Asia,64.5,62,67.1
+181, Laos,Asia,64.3,62.2,66.4
+182, Comoros,Africa,64.2,61.9,66.6
+183, Equatorial Guinea,Africa,64.2,63.1,65.4
+184, Sudan,Africa,64.1,62,66.3
+185, Kenya,Africa,64,62.6,65.5
+186, Haiti,North America,63.8,61.2,66.4
+187, Namibia,Africa,63.6,62.1,65.1
+188, Djibouti,Africa,63.2,60.7,65.8
+189, South Africa,Africa,63.1,61.6,64.6
+190,Western Sahara,Africa,63,60.7,65.4
+191, Mauritania,Africa,63,60.7,65.4
+192, Ethiopia,Africa,62.2,59.8,64.7
+193, Tanzania,Africa,62.2,60.8,63.6
+194, Benin,Africa,61.9,60.5,63.3
+195, Senegal,Africa,61.7,59.7,63.8
+196, Malawi,Africa,61.2,59.2,63.2
+197, Guinea,Africa,60.6,59,62.2
+198, Burundi,Africa,60.5,58.8,62.3
+199, Rwanda,Africa,60.1,58.5,61.7
+200, Republic of the Congo,Africa,59.3,58.1,60.6
+201, Liberia,Africa,59,57.3,60.8
+202, Côte d'Ivoire,Africa,58.7,57.5,59.9
+203, Cameroon,Africa,58.5,57.1,59.9
+204, Sierra Leone,Africa,58.2,55.6,60.9
+205, Zimbabwe,Africa,58,57.3,58.7
+206, Democratic Republic of the Congo,Africa,57.3,55.8,58.9
+207, Angola,Africa,56,54.8,57.2
+208, Mali,Africa,55.8,53.9,57.7
+209, Burkina Faso,Africa,55.5,53.4,57.6
+210, Niger,Africa,55.5,54.3,56.8
+211, Uganda,Africa,55.4,54,56.9
+212, Botswana,Africa,54.5,56.3,52.6
+213, Nigeria,Africa,53.4,52.4,54.5
+214, Mozambique,Africa,53.3,52.6,54.1
+215, Lesotho,Africa,53,52.9,53.1
+216, Zambia,Africa,52.5,50.8,54.1
+217, Somalia,Africa,52.4,50.3,54.5
+218, Central African Republic,Africa,52.3,51,53.7
+219, Gabon,Africa,52.1,51.6,52.5
+220, Swaziland,Africa,51.6,52.2,51
+221, Afghanistan,Asia,51.3,49.9,52.7
+222, Guinea-Bissau,Africa,50.6,48.6,52.7
+223, Chad,Africa,50.2,49,51.3
